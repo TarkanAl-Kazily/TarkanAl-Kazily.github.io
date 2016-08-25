@@ -8,3 +8,13 @@ code {
 a code {
   color: #08c;
 }
+
+
+body {
+    color: red;
+}
+
+.navlink {
+    display: inline;
+    margin: 20px;
+}
